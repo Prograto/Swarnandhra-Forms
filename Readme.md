@@ -145,8 +145,8 @@ dnspython
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/your-username/swarnandhra-form-management.git
-cd swarnandhra-form-management
+git clone https://github.com/Prograto/Swarnandhra-Forms.git
+cd Swarnandhra-Forms
 ```
 
 ---
